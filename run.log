@@ -1,0 +1,4 @@
+input_text encrypted enc DES CTR 116
+input_text encrypted enc DES CBC 95
+input_text encrypted enc DES OFB 97
+input_text encrypted enc DES CFB 119
